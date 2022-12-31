@@ -1,1 +1,1 @@
-# Register-and-Login-Page-using-PHP-MySQL
+# Register-and-Login-Page-using-PHP-and-MySQL

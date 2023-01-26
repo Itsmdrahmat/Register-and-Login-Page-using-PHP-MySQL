@@ -5,7 +5,7 @@ Users can create an account by providing username, password, email. After the ac
 
 Furthermore, we will show you how to build secure pages that are only accessed by logged in users. Without login, the user can not access the page.
 
-#How to create a Registration and Login System with PHP and MySQL
+# How to create a Registration and Login System with PHP and MySQL
 
 Here are Seven pretty simple steps you have to follow to create a login system.
 1. Create a Database and Database Table

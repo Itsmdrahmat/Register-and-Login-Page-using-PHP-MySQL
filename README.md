@@ -4,7 +4,9 @@ How to create a Registration and Login System with PHP and MySQL. Here is the qu
 Users can create an account by providing username, password, email. After the account was created, the user can log in to their own account. Once the user login, it will redirect to the Dashboard page. Moreover, the user can logout from his panel. This whole system we are developed using PHP and MySQL.
 
 Furthermore, we will show you how to build secure pages that are only accessed by logged in users. Without login, the user can not access the page.
+
 #How to create a Registration and Login System with PHP and MySQL
+
 Here are Seven pretty simple steps you have to follow to create a login system.
 1. Create a Database and Database Table
 2. Connect to the Database
